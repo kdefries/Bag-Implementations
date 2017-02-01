@@ -1,4 +1,4 @@
-/* A test of the constructors and the methods of ArrayBag
+/* A test of a few of the constructors and the methods of ArrayBag
  * Defries, Kevin */
 
 public class ArrayBagTest
